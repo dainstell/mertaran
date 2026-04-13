@@ -1,0 +1,10 @@
+public interface AppProperties {
+
+    static final String APP_NAME = "MertAran";
+    static final String API_BASE_URL = "https://mertaran.com";
+    static final String DATABASE_URL = "mertaran.io";
+    static final String DATABASE_USER = "DATABASE_USER";
+    static final String DATABASE_PASS = "DATABASE_PASS";
+
+    static final String SMTP_HOST = "mertaran.io";
+    static final String SMTP_PORT = "587";
